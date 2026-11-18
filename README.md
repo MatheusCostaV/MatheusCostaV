@@ -37,18 +37,6 @@ Estou aprofundando meus conhecimentos em desenvolvimento backend e arquitetura d
 
 Também uso **TypeORM**, **Bull**, **n8n**, **BotCity** e **pandas**.
 
-## Projetos em destaque
-
-| Projeto | O que faz | Tecnologia |
-| --- | --- | --- |
-| [Automação de cotações PTAX](https://github.com/MatheusCostaV/desafioRPA) | Consulta cotações do dólar e do euro na API do Banco Central e gera um CSV. | Python |
-| [Lista de tarefas](https://github.com/MatheusCostaV/tarefaEngSoftware) | Gerencia tarefas no terminal e aplica os padrões Singleton e Strategy. | Java |
-| [Formulário do Desafio Trilhas](https://github.com/MatheusCostaV/desafiotrilhas) | Projeto web de formulário desenvolvido para o Desafio Trilhas. | HTML |
-
-<!-- Projeto backend: substitua os campos e mova a linha para o fim da tabela.
-| [NOME DO PROJETO]([URL DO REPO]) | [DESCRIÇÃO EM 1 FRASE] | [STACK] |
--->
-
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/matheus-costa-90b5ba228)
