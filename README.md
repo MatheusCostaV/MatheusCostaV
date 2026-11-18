@@ -18,11 +18,18 @@ Sou graduando em Ciência e Tecnologia na UFMA e tenho experiência em desenvolv
 
 Já trabalhei com processamento em filas, tarefas agendadas e bancos de dados relacionais. Na graduação, estudo algoritmos e estruturas de dados em **C** e aplico padrões de projeto em **Java**.
 
+Também tenho experiência com **Unity** e **C#**.
+
+## Em foco
+
+Atuo na Digisystem (EQT LAB) com automação de processos e RPA, desenvolvendo rotinas em Python e APIs em NestJS.
+Estou aprofundando meus conhecimentos em desenvolvimento backend e arquitetura de software.
+
 ## Linguagens e ferramentas
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,java&amp;theme=dark" alt="Python, TypeScript, JavaScript, C e Java" height="42">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,java,cs&amp;theme=dark" alt="Python, TypeScript, JavaScript, C, Java e C#" height="42">
 
 **Backend, automação e ambiente**
 
@@ -37,3 +44,14 @@ Também uso **TypeORM**, **Bull**, **n8n**, **BotCity** e **pandas**.
 | [Automação de cotações PTAX](https://github.com/MatheusCostaV/desafioRPA) | Consulta cotações do dólar e do euro na API do Banco Central e gera um CSV. | Python |
 | [Lista de tarefas](https://github.com/MatheusCostaV/tarefaEngSoftware) | Gerencia tarefas no terminal e aplica os padrões Singleton e Strategy. | Java |
 | [Formulário do Desafio Trilhas](https://github.com/MatheusCostaV/desafiotrilhas) | Projeto web de formulário desenvolvido para o Desafio Trilhas. | HTML |
+
+<!-- Projeto backend: substitua os campos e mova a linha para o fim da tabela.
+| [NOME DO PROJETO]([URL DO REPO]) | [DESCRIÇÃO EM 1 FRASE] | [STACK] |
+-->
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/matheus-costa-90b5ba228)
+<!-- E-mail: substitua [EMAIL] e retire o comentário para publicar.
+- E-mail: [EMAIL]
+-->
