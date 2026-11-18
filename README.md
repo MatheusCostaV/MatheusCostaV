@@ -1,10 +1,7 @@
 <!-- Referência visual: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-<h1 align="center">Matheus Costa</h1>
-
 <p align="center">
-  <strong>Desenvolvimento de software · Backend · Automação RPA</strong><br>
-  Bacharelado Interdisciplinar em Ciência e Tecnologia · UFMA
+  <img src="./assets/terminal.svg" alt="Terminal animado: Matheus Costa, backend e automação RPA na Digisystem (EQT LAB), graduando em Ciência e Tecnologia na UFMA" width="820" />
 </p>
 
 <p align="center">
